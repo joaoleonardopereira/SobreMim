@@ -1,6 +1,3 @@
-# SobreMim
-Pequeno resumo sobre com o que eu estudo e minhas metas.
-
 # Bem vindo ao meu perfil! Meu nome é João Leonardo. Prazer! 
 **Sou estudante de DSI, com foco em Python, HTML e CSS.**
 
