@@ -5,7 +5,7 @@
 
 ## Sobre mim
 - Atualmente cursando **Técnico em Desenvolvimento de Sistemas**
-- Empenhado em me tornar no futuro um **Engenheiro de Software**
+- Empenhado em me tornar um **Engenheiro de Software**
 - Atenção especial à **projetos web** e **desenvolvimento front-end**
 
 ---
@@ -30,7 +30,3 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 ## Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL@gmail.com)
-
----
-
-*“Sempre aprendendo e evoluindo como desenvolvedor.”*
